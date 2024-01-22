@@ -1,0 +1,31 @@
+<mxfile host="Electron" modified="2024-01-22T10:24:16.766Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="AIZPA1nUjyxNQK2BG9us" version="21.6.8" type="device">
+  <diagram name="第 1 页" id="jAoNTgJ8F_iNHZG30yjV">
+    <mxGraphModel dx="559" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SlGXIowDoF15jx369UOx-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=24;fillColor=none;strokeWidth=4;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="550" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SlGXIowDoF15jx369UOx-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=24;strokeWidth=4;fontStyle=1" vertex="1" parent="SlGXIowDoF15jx369UOx-1">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SlGXIowDoF15jx369UOx-3" value="GND" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=24;strokeWidth=4;fontStyle=1" vertex="1" parent="SlGXIowDoF15jx369UOx-2">
+          <mxGeometry width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SlGXIowDoF15jx369UOx-4" value="RX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=24;strokeWidth=4;fontStyle=1" vertex="1" parent="SlGXIowDoF15jx369UOx-2">
+          <mxGeometry x="60" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SlGXIowDoF15jx369UOx-5" value="TX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=24;strokeWidth=4;fontStyle=1" vertex="1" parent="SlGXIowDoF15jx369UOx-2">
+          <mxGeometry x="120" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
